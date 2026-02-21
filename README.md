@@ -1,0 +1,2 @@
+# PyMol Agent
+A conversational AI agent that sits on top of PyMOL to help students prepare publication-quality figures, perform structural analysis (e.g., RMSD), and learn PyMOL through guided interaction.
